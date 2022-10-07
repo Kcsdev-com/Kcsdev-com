@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kcsdev-com
-- 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ...C#, JavaScript
+- 👀 I’m interested in ...Web development, Systems Analysis & Design, Application Testing.
+- 🌱 I’m currently learning ...C#, JavaScript, CSS
 - 💞️ I’m looking to collaborate on ...Website/Mobile integration
 - 📫 How to reach me ...kylesmit7@gmail.com
 
